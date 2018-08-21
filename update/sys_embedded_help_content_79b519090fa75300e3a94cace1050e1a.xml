@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_embedded_help_content">
+    <sys_embedded_help_content action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category/>
+        <content><![CDATA[    <h1 class="title topictitle1">Create a business unit</h1>        <div class="body taskbody">        <ol class="ol steps"><li class="li step stepexpand">                <span class="ph cmd">Enter the form details.</span>                <div class="itemgroup info">                    <div class="tablenoborder"><table id="business_unit-normal__table_s2r_qv1_dbb" class="table"><caption><span class="tablecap">Table 1. Business Unit form</span></caption><thead class="thead"><tr class="row"><th class="entry" id="d481474e54">Field</th><th class="entry" id="d481474e57">Description</th></tr></thead><tbody class="tbody"><tr class="row"><td class="entry">Name</td><td class="entry">Name of the business unit.</td></tr><tr class="row"><td class="entry">Company</td><td class="entry">Company that is associated with the business                                        unit.</td></tr><tr class="row"><td class="entry">Business Unit Head</td><td class="entry">Person who heads the business unit.</td></tr><tr class="row"><td class="entry">Description</td><td class="entry">A short description of the business unit.</td></tr><tr class="row"><td class="entry">Parent</td><td class="entry">Select a parent business unit.</td></tr></tbody></table></div>                </div>            </li><li class="li step stepexpand">                <span class="ph cmd">Click <span class="ph uicontrol">Submit</span>.</span>            </li></ol>    </div>]]></content>
+        <last_sync>2018-08-09 06:53:14</last_sync>
+        <modifier>normal</modifier>
+        <name>business_unit-normal</name>
+        <page>business_unit</page>
+        <product>1</product>
+        <qualifier/>
+        <role/>
+        <role_order>1000</role_order>
+        <snc_created>true</snc_created>
+        <sys_class_name>sys_embedded_help_content</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2018-07-25 06:53:11</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>79b519090fa75300e3a94cace1050e1a</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>business_unit-normal</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_embedded_help_content_79b519090fa75300e3a94cace1050e1a</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2018-08-09 06:53:14</sys_updated_on>
+        <version>k</version>
+    </sys_embedded_help_content>
+    <sys_translated_text action="delete_multiple" query="documentkey=79b519090fa75300e3a94cace1050e1a"/>
+</record_update>
